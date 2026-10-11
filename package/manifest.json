@@ -1,0 +1,10 @@
+{
+  "name": "Carturs_Sailing",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/jekkle/cartur-sailing",
+  "description": "A Sailing skill: faster ships under your command, tougher ships you build, a wider map reveal at sea, and a ladder nudge for beached ships. Inspired by Smoothbrain's Sailing.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
